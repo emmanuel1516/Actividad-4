@@ -12,7 +12,7 @@ public class ColaDeTrabajo {
     private List<Trabajo> colaTrabajos;
     
     // Constructor
-    // Inicializacion por defecto en el constructor
+    // Inicializacion por defecto en el constructor dcscc
     /**
      * 
      * @param nombre único parametro que debemos ingrear
